@@ -1,0 +1,7 @@
+streamlit
+langchain
+chromadb
+groq
+python-dotenv
+requests
+pytest
